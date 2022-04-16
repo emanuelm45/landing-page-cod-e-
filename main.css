@@ -149,7 +149,7 @@ button#get-notified {
 }
 
 .card p {
-    font-size: max(1.8rem, 1vw);
+    font-size: max(1.4rem, 1.2vw);
     max-width: 60%;
     margin: 0 auto; 
 }

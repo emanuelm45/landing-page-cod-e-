@@ -123,6 +123,7 @@ button#get-notified {
     color: white;
     border-radius: .8rem;
     transition: all .3s;
+    text-transform: uppercase;
 }
 
 #get-notified:hover {
